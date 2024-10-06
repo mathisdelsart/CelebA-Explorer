@@ -1,4 +1,3 @@
 # Local configuration
 .vscode
-
-Clustering_1/Figures/*
+.DS_Store
