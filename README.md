@@ -46,7 +46,7 @@ To explore the TPs or the project, follow these steps:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/Mathis003/LDATA2010
+   git clone https://github.com/Mathis003/LDATA2010.git
    cd LDATA2010
 
 ---
