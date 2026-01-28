@@ -1,3 +1,5 @@
+<div align="center">
+
 # CelebA-Explorer
 
 ### Interactive Visualization Platform for Celebrity Face Analysis
@@ -7,6 +9,8 @@
 Explore 30,000 celebrity faces through advanced embeddings, similarity search, and dimensionality reduction techniques. Uncover hidden patterns in facial attributes with interactive visualizations.
 
 **[Features](#features)** • **[Quick Start](#quick-start)** • **[Technology Stack](#technology-stack)**
+
+</div>
 
 ---
 
