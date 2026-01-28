@@ -268,9 +268,33 @@ For detailed information about the project implementation, methodology, and resu
 
 ---
 
+## Author
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="180" align="left">
+      <img src="https://img.shields.io/badge/GitHub-mathisdelsart-black?logo=github" valign="middle"/>
+    </td>
+    <td align="left">
+      <strong>Mathis DELSART</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## License
 
 This project is developed for academic purposes as part of university coursework.
 
-**Built for LDATA2010 - Information Visualization @ UCLouvain**  
+---
+
+<div align="center">
+
+**Built for LDATA2010 - Information Visualization @ UCLouvain** (Université catholique de Louvain).
+
 *An interactive platform for celebrity face analysis*
+
+</div>
